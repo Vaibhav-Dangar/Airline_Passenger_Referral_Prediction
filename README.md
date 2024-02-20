@@ -1,5 +1,7 @@
 # Airline_Passenger_Referral_Prediction
-![image](https://user-images.githubusercontent.com/85430510/234468525-3486d4f7-8fb5-45b9-84a1-e9744b917379.png)
+
+![airline](https://github.com/vaibhavdangar09/Airline_Passenger_Referral_Prediction/assets/85430510/968d726e-f8e2-4f15-9057-d02fae200f55)
+
 
 # Project Summary
 
